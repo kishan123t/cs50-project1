@@ -1,0 +1,13 @@
+-------GOODREADS------
+PROJECT NAME :- PROJECT1
+API KEY :- 6N7BP8LypbRjdLWtzg
+SECRET KEY :-7sZ8pWCVkxmBlCIiERGXrJfpSnB64t4WFqmGyttrHKk
+
+--------HEROKU DATABASE------
+HOST :- ec2-34-200-72-77.compute-1.amazonaws.com
+DATABASE:- db64210elk5kma
+USER :- ioazouxpumlxzt
+PORT :- 5432
+PASSWORD:-99d9184dab9030545216426d35f3f174ec2cb81ce1a665eb8cc2d23a371553bc
+URI:- postgres://ioazouxpumlxzt:99d9184dab9030545216426d35f3f174ec2cb81ce1a665eb8cc2d23a371553bc@ec2-34-200-72-77.compute-1.amazonaws.com:5432/db64210elk5kma
+HEROKU CLI :- heroku pg:psql postgresql-graceful-22450 --app ksn-project1-cs50
