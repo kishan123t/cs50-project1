@@ -1,2 +1,3 @@
-# cs50-project1
-cs50w-project1 from harvard university
+# Project 1
+
+Web Programming with Python and JavaScript
